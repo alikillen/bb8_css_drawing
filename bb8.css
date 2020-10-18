@@ -1,0 +1,65 @@
+.body {
+  background: #eee;
+}
+
+.artboard {
+  width: 800px;
+  height: 600px;
+  background: #fff;
+  -webkit-box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 3px 20px rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  margin: 50px auto;
+  border: 20px white solid;
+  position: relative;
+}
+
+.bb8 {
+  width: 220px;
+  height: 220px;
+  background: #EBF2FA;
+  position: absolute;
+  top: 222px;
+  left: 260px;
+  border-radius: 50%;
+  background: rgba(255, 192, 203, 0.3);
+}
+
+.bb8-body {
+  width: 220px;
+  height: 220px;
+  background: #EBF2FA;
+  position: absolute;
+  border-radius: 50%;
+  border: solid 8px #244356;
+  overflow: hidden;
+}
+
+.circle {
+  width: 120px;
+  height: 120px;
+  border: 8px solid #244356;
+  background-color: #fdc33e;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.circle-1 {
+  top: 0;
+  left: -30px;
+}
+
+.circle-2 {
+  top: 117px;
+  left: 70px;
+  height: 140px;
+  width: 140px;
+}
+
+.circle-3 {
+  height: 300px;
+  width: 300px;
+  left: 120px;
+  top: -180px;
+}
+/*# sourceMappingURL=bb8.css.map */
